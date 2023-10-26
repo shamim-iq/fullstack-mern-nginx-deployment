@@ -1,6 +1,7 @@
 # Full-Stack Application Deployment Guide
 
-This guide provides step-by-step instructions for deploying a full-stack application on AWS cloud, including configuring an NGINX server. This deployment allows you to host your application on a single server.
+- This guide provides step-by-step instructions for deploying a full-stack application on AWS cloud, including configuring an NGINX server. This deployment allows you to host your application on a single server. 
+- The application is a full-stack web application that offers user authentication and interaction. Users can register, log in, and access personalized features. It provides a secure and user-friendly platform for managing and interacting with data, all while ensuring data integrity and confidentiality. The frontend, built with React, offers an intuitive user interface, while the backend, powered by Node.js and Express, manages data processing and communication with the RDS MySQL database. The NGINX enhances performance and security. This application serves as a foundation for developing dynamic and data-driven web services.
 
 ## Prerequisites
 
